@@ -1,0 +1,91 @@
+
+10:59:08.682 [info]  Counter: 0
+
+10:59:09.681 [info]  Counter: 1
+
+10:59:10.682 [info]  Counter: 2
+
+10:59:11.683 [info]  Counter: 3
+
+10:59:12.684 [info]  Counter: 4
+
+10:59:13.685 [info]  Counter: 5
+
+10:59:14.686 [info]  Counter: 6
+
+10:59:15.687 [info]  Counter: 7
+
+10:59:16.688 [info]  Counter: 8
+
+10:59:17.689 [info]  Counter: 9
+
+10:59:18.690 [info]  Counter: 10
+
+10:59:19.691 [info]  Counter: 11
+
+10:59:20.692 [info]  Counter: 12
+
+10:59:21.693 [info]  Counter: 13
+
+10:59:22.694 [info]  Counter: 14
+
+10:59:23.695 [info]  Counter: 15
+
+10:59:24.696 [info]  Counter: 16
+
+10:59:25.697 [info]  Counter: 17
+
+10:59:26.698 [info]  Counter: 18
+
+10:59:27.699 [info]  Counter: 19
+
+10:59:28.700 [info]  Counter: 20
+
+10:59:29.701 [info]  Counter: 21
+
+10:59:30.702 [info]  Counter: 22
+
+10:59:31.703 [info]  Counter: 23
+
+10:59:32.704 [info]  Counter: 24
+
+10:59:33.705 [info]  Counter: 25
+
+10:59:34.706 [info]  Counter: 26
+
+10:59:35.707 [info]  Counter: 27
+
+10:59:36.708 [info]  Counter: 28
+
+10:59:37.709 [info]  Counter: 29
+
+10:59:38.710 [info]  Counter: 30
+
+10:59:39.711 [info]  Counter: 31
+
+10:59:40.712 [info]  Counter: 32
+
+10:59:41.713 [info]  Counter: 33
+
+10:59:42.714 [info]  Counter: 34
+
+10:59:43.715 [info]  Counter: 35
+
+10:59:44.716 [info]  Counter: 36
+
+10:59:45.717 [info]  Counter: 37
+
+10:59:46.718 [info]  Counter: 38
+
+10:59:47.719 [info]  Counter: 39
+
+10:59:48.720 [info]  Counter: 40
+
+10:59:49.721 [info]  Counter: 41
+
+10:59:50.722 [info]  Counter: 42
+
+10:59:51.723 [info]  Counter: 43
+
+BREAK: (a)bort (c)ontinue (p)roc info (i)nfo (l)oaded
+       (v)ersion (k)ill (D)b-tables (d)istribution

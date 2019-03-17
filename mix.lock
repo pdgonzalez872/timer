@@ -1,0 +1,4 @@
+%{
+  "elixir_make": {:hex, :elixir_make, "0.5.2", "96a28c79f5b8d34879cd95ebc04d2a0d678cfbbd3e74c43cb63a76adf0ee8054", [:mix], [], "hexpm"},
+  "midi_synth": {:git, "https://github.com/fhunleth/midi_synth.git", "787f4b28e70512468e2c8fca5b4e1dc806c9dc4f", []},
+}
