@@ -19,7 +19,10 @@ defmodule Timer.Workers.Greeter do
   end
 
   def init(state) do
-    schedule()
+    # Uncomment this to have the worker schedule some work
+    #schedule()
+
+    :ok = :pg2.join(:family, self())
 
     {:ok, state}
   end
@@ -30,6 +33,12 @@ defmodule Timer.Workers.Greeter do
     new_state = work(state)
 
     {:noreply, new_state}
+  end
+
+  def handle_info(:hi, state) do
+    Logger.info("Hi! I'm #{state.who_to_greet}")
+
+    {:noreply, state}
   end
 
   def schedule() do
