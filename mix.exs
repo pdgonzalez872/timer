@@ -22,7 +22,7 @@ defmodule Timer.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:midi_synth, git: "https://github.com/fhunleth/midi_synth.git"}
+      # {:midi_synth, git: "https://github.com/fhunleth/midi_synth.git"}
     ]
   end
 end
